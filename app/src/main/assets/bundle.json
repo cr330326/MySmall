@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "app_main",
+      "pkg": "com.cryallen.appmain",
+      "rules": {
+        "page2": ".ActivityTest"
+      }
+    }
+  ]
+}
